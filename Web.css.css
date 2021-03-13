@@ -1,0 +1,31 @@
+body{
+    background-image: url(thumb-2049259069_PkLsKHuU_8b7819b8b99071f50d7e813252126f1ee0fdc33d_600x373.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin: 220px;
+    font-size: 5cm;
+}
+
+h1 span:nth-child(1) {
+    color: #4285f4;
+}
+
+h1 span:nth-child(2) {
+    color: #fbbc05;
+}
+
+h1 span:nth-child(3) {
+    color: #34a853;
+}
+
+.search-bar {
+    width: 500px;
+    border-bottom-width: 1px;
+    bottom: 200px;
+
+}
+
